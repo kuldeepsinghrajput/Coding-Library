@@ -1,4 +1,4 @@
-#What #is #a #suffix #array.
+What is a suffix array.
 Consider a string s.
 S=ababba
 
